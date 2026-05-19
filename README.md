@@ -64,12 +64,6 @@ https://drive.google.com/drive/folders/1mfucCjnyfTsWVTuH297yEIkxB\_Dzyy8L?usp=sh
 
 
 
-##### Notebooks:
-
-https://github.com/benpeters252/Projects/tree/main/Springboard/Captsone%203%20-%20Cancer%20Image%20Classification/Notebooks
-
-
-
 ##### Data Sources:
 
 
